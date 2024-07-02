@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.jo-mab.com
+  - host: gitops.jo-mab.com
     http:
       paths:
       - path: /
